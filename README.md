@@ -1,1 +1,1 @@
-# Getting with Supercluster in React Leaflet
+# Getting started with Supercluster in React Leaflet
